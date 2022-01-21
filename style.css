@@ -30,10 +30,10 @@
   margin-bottom: 20px;
 }
 
-#box:hover {
+/* #box:hover {
   background-color: hsl(18, 98%, 24%);
   color: #fff;
-}
+} */
 
 #box h3 {
   color: hsl(0, 0%, 95%);
